@@ -1,5 +1,5 @@
 <head>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="custom.css">
 </head>
 
 <h3 align="center">Aloo con gà</h3>
