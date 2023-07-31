@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
 <h3 align="center">Aloo con gà</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diblotempest" alt="diblotempest" /></a> </p>
